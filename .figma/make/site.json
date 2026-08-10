@@ -1,0 +1,10 @@
+{
+  "description": "Offers a dynamic gym website with dedicated pages for services, packages, testimonials, and a consistent footer to engage fitness enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
