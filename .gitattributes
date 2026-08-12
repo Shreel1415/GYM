@@ -52,8 +52,8 @@
 *.dae                filter=lfs diff=lfs merge=lfs -text
 *.3ds                filter=lfs diff=lfs merge=lfs -text
 *.max                filter=lfs diff=lfs merge=lfs -text
-*.unity              filter=lfs diff=lfs merge=lfs -text
-*.unitypackage       filter=lfs diff=lfs merge=lfs -text
+*.The              filter=lfs diff=lfs merge=lfs -text
+*.Thepackage       filter=lfs diff=lfs merge=lfs -text
 *.uasset             filter=lfs diff=lfs merge=lfs -text
 *.umap               filter=lfs diff=lfs merge=lfs -text
 

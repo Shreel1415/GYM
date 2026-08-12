@@ -15,7 +15,7 @@ const plans = [
       'Full gym access (all hours)',
       'Locker room & showers',
       '2 group classes / week',
-      'Fitness assessment',
+      'Gym assessment',
       'App access & workout log',
     ],
     missing: ['Personal training', 'Nutrition coaching', 'Recovery suite'],

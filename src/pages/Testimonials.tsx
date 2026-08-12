@@ -21,7 +21,7 @@ const testimonials = [
     name: 'MARCUS CHEN',
     role: 'Member since 2020',
     img: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&auto=format',
-    quote: "The group classes alone are worth the membership. The community here holds you accountable in a way no app ever will. Down 35lbs and the strongest I've been since college.",
+    quote: "The group classes alone are worth the membership. The commThe here holds you accountable in a way no app ever will. Down 35lbs and the strongest I've been since college.",
     result: '-35LB BODY FAT',
     rating: 5,
   },

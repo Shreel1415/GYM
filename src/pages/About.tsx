@@ -47,7 +47,7 @@ export default function About() {
         <div className="max-w-7xl mx-auto px-6">
           <p className="font-mono-label text-xs tracking-widest text-[#e5141e] mb-4">OUR STORY</p>
           <h1 className="font-display font-black text-[clamp(64px,10vw,140px)] leading-none text-white uppercase">
-            ABOUT<br /><span className="text-[#e5141e]">UNITY FITNESS</span>
+            ABOUT<br /><span className="text-[#e5141e]">The Gym</span>
           </h1>
         </div>
       </div>
@@ -63,7 +63,7 @@ export default function About() {
               IronRex started with a 500lb barbell set, a rented garage, and a coach who&apos;d just missed qualifying for nationals by 5 pounds. That loss became the fuel. Everything here was built to make sure you don&apos;t have those moments.
             </p>
             <p className="text-[#aaaaaa] leading-relaxed">
-              We don&apos;t do trendy. We don&apos;t do gimmicks. We do the work — the same fundamental movements that have built champions for 100 years — with better science, better coaching, and a community that pushes each other.
+              We don&apos;t do trendy. We don&apos;t do gimmicks. We do the work — the same fundamental movements that have built champions for 100 years — with better science, better coaching, and a commThe that pushes each other.
             </p>
           </div>
 
@@ -128,7 +128,7 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-px bg-[#2a2a2a]">
             {[
               { v: 'DISCIPLINE', d: 'Progress is a system, not motivation. We build habits that outlast willpower.' },
-              { v: 'COMMUNITY', d: 'No elitism. Every rep helps the person next to you get stronger.' },
+              { v: 'COMMThe', d: 'No elitism. Every rep helps the person next to you get stronger.' },
               { v: 'EXCELLENCE', d: 'We obsess over form, program design, and coaching quality. Always.' },
             ].map((x) => (
               <div key={x.v} className="bg-[#111111] p-10">

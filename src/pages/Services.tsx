@@ -31,7 +31,7 @@ const services = [
     num: '05',
     name: 'GROUP CLASSES',
     desc: 'Structured team training sessions that combine strength, conditioning, and camaraderie. 20 classes weekly.',
-    features: ['Max 12 per class', 'All levels welcome', 'Functional fitness', 'Barbell Club Saturday'],
+    features: ['Max 12 per class', 'All levels welcome', 'Functional Gym', 'Barbell Club Saturday'],
     img: 'https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&h=400&fit=crop&auto=format',
   },
   {

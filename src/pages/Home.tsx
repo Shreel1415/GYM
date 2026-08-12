@@ -161,7 +161,7 @@ export default function Home({ navigate }: HomeProps) {
               TEMPO<span className="text-[#e5141e]">RARY.</span>
             </h2>
             <p className="text-[#aaaaaa] leading-relaxed mb-6">
-              Every world-class physique started as a decision made in a dark moment. We provide the environment, the coaching, and the community that turns that decision into a daily discipline.
+              Every world-class physique started as a decision made in a dark moment. We provide the environment, the coaching, and the commThe that turns that decision into a daily discipline.
             </p>
             <p className="text-[#aaaaaa] leading-relaxed mb-10">
               Our coaches have competed at national and international level. They&apos;ve been through the grind — so they know exactly how to take you there.

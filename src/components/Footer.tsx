@@ -7,10 +7,10 @@ export default function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-[#e5141e] flex items-center justify-center">
-                <span className="font-display font-black text-white text-sm">IR</span>
+                <span className="font-display font-black text-white text-sm">TG</span>
               </div>
               <span className="font-display font-black text-xl tracking-widest text-white uppercase">
-                Unity<span className="text-[#e5141e]"> Fitness</span>
+                The<span className="text-[#e5141e]"> Gym</span>
               </span>
             </div>
             <p className="text-[#888888] text-sm leading-relaxed">
@@ -71,7 +71,7 @@ export default function Footer() {
             <ul className="space-y-4 text-sm">
               <li>
                 <div className="font-mono-label text-[10px] text-[#888888] mb-1 tracking-widest">ADDRESS</div>
-                <div className="text-white">Chorghe Ground, Virar(East)</div>
+                <div className="text-white">Virar (East)</div>
               </li>
               <li>
                 <div className="font-mono-label text-[10px] text-[#888888] mb-1 tracking-widest">PHONE</div>
@@ -79,7 +79,7 @@ export default function Footer() {
               </li>
               <li>
                 <div className="font-mono-label text-[10px] text-[#888888] mb-1 tracking-widest">EMAIL</div>
-                <div className="text-white">info@unityfitness.com</div>
+                <div className="text-white">info@TheGym.com</div>
               </li>
             </ul>
           </div>
@@ -88,7 +88,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-[#1a1a1a] pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="font-mono-label text-xs text-[#555555]">
-            © 2026 UNITY FITNESS. ALL RIGHTS RESERVED.
+            © Quen Mark Solutions. ALL RIGHTS RESERVED.
           </p>
           <p className="font-mono-label text-xs text-[#555555]">
             BUILT FOR THOSE WHO NEVER QUIT.

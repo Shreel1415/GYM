@@ -34,10 +34,10 @@ export default function Navbar({ current, navigate }: NavbarProps) {
           className="flex items-center gap-2 group"
         >
           <div className="w-8 h-8 bg-[#e5141e] flex items-center justify-center">
-            <span className="font-display font-black text-white text-sm leading-none">IR</span>
+            <span className="font-display font-black text-white text-sm leading-none">TG</span>
           </div>
           <span className="font-display font-black text-xl tracking-widest text-white uppercase">
-            Unity<span className="text-[#e5141e]"> Fitness</span>
+            The<span className="text-[#e5141e]"> Gym</span>
           </span>
         </button>
 
